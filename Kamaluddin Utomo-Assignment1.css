@@ -1,0 +1,127 @@
+.row {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+
+}
+
+
+#menu1 {
+	background-color: #f2f2f2;
+	padding-left: 100px;
+	padding-right: 112px;
+}
+
+
+.navbar-header .link-style{
+	text-decoration: none;
+	color: rgb(142, 142, 142);
+	padding:10px;
+  padding-left:10px;
+  padding-right: 10px;
+}
+
+li {
+	float: left;
+}
+
+ul{
+	list-style-type: none;
+	color: #8e8e8e;
+}
+
+.dropbtn {
+  display: inline-block;
+  color: rgb(142, 142, 142);
+  
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+
+
+li.dropdown {
+  display: inline-block;
+}
+
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px #00000033;
+  
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 4px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #cacaca;
+  color: rgb(142, 142, 142);
+  
+}
+
+.navbar-header .btn{
+  padding:8px;
+  padding-left:10px;
+  padding-right: 10px;
+}
+
+.navbar-header .btn-primary{
+	color: white;
+}
+
+.jumbotron{
+  background-color: #f2f2f2;
+  margin-top: 20px;
+  padding: 60px;
+}
+
+.isikonten{
+	margin-left: 110px;
+	margin-right: 110px;
+}
+
+.card{
+	width: 284px;
+	margin: 20px;
+}
+
+.blog-card img {
+	width: 270px;
+	height: 240px;
+}
+
+footer{
+	background-color: #f2f2f2;
+	color: rgb(142, 142, 142);
+}
+
+.footerkiri{
+	padding-left: 130px;
+	padding-top:10px;
+}
+
+.footerkanan{
+	padding-left: 160px;
+	padding-top:10px;
+}
+
+
+
